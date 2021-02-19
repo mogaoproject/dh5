@@ -1,0 +1,10 @@
+*.pyc
+*.log
+dh5/logs
+dh5/export_deliverables
+dh5/cantaloupe/*
+dh5/media/packages
+dh5/uploadedfiles/*
+dh5/settings_local.py
+.vscode/
+dh5/__pycache__

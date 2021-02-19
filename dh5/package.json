@@ -1,0 +1,6 @@
+{
+    "name": "dh5",
+    "dependencies": {
+        "arches": "archesproject/arches#5.1.0"
+    }
+}
